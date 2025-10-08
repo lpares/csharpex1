@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercicePresentationNet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSources", "DataSources\DataSources.csproj", "{EE177A56-1B0B-6DDC-94F9-8FFD0246ADF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenImageResolution", "GenImageResolution\GenImageResolution.csproj", "{25DE965E-4858-4EC1-A1E5-205749EC4621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpex_perf", "csharpex_perf\csharpex_perf.csproj", "{79BCB8B9-B64D-4277-BEB9-30024C3AE6F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{EE177A56-1B0B-6DDC-94F9-8FFD0246ADF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE177A56-1B0B-6DDC-94F9-8FFD0246ADF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE177A56-1B0B-6DDC-94F9-8FFD0246ADF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DE965E-4858-4EC1-A1E5-205749EC4621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DE965E-4858-4EC1-A1E5-205749EC4621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DE965E-4858-4EC1-A1E5-205749EC4621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DE965E-4858-4EC1-A1E5-205749EC4621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79BCB8B9-B64D-4277-BEB9-30024C3AE6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BCB8B9-B64D-4277-BEB9-30024C3AE6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BCB8B9-B64D-4277-BEB9-30024C3AE6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BCB8B9-B64D-4277-BEB9-30024C3AE6F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
